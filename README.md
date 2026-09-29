@@ -1,5 +1,4 @@
-# RunningHub-Custom-Nodes-Request
-Request to add missing ComfyUI custom nodes to RunningHub, including Lonecat’s LC node suite and related dependencies.
+
 # RunningHub Custom Nodes Request
 
 This repository was created to organize a request for additional **ComfyUI custom node packages** to be reviewed and made available on **RunningHub**.
